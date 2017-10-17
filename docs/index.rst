@@ -25,5 +25,10 @@ build and deploy Kubernetes in production at scale.
    user-guide
    design_cli_ux
    developer-guide
+<<<<<<< HEAD
    known-issues
    existing-vpc
+=======
+   proposals
+   known-issues
+>>>>>>> e8a9912... Adds design for terraform-provider-tarmak

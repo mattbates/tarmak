@@ -22,5 +22,11 @@ plugable
 Todo
 auth
 env
+<<<<<<< HEAD
 subtree
 subtrees
+=======
+PoC
+stdin
+init
+>>>>>>> e8a9912... Adds design for terraform-provider-tarmak
